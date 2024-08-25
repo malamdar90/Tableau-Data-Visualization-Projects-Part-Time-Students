@@ -1,6 +1,4 @@
-# About the Data Visualization Course
-
-**Class:** BU.520.650 Data Visualization
+# About the BU.520.650 Data Visualization Course - Online Version
 
 **School:** Johns Hopkins Carey Business School
 
