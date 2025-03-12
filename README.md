@@ -7,8 +7,10 @@
 **Students:** 
 - Summer 2024: Total of 56 Master Students
 - Summer 2023: Total of 24 Master Students
-  
-**Format:** Remote
+
+**Projects:** Total of 17 Projects 
+
+**Format:** Online
 
 **Duration:** 8 Weeks
 
