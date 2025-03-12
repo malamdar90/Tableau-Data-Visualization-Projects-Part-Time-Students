@@ -10,7 +10,7 @@
   
 **Format:** Remote
 
-**Duration:** 50 Days
+**Duration:** 8 Weeks
 
 **Units:** 2 Credits
 
