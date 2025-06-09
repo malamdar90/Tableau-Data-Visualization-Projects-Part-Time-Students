@@ -33,8 +33,6 @@
 
 [Team 50 EV Population Data](https://public.tableau.com/views/Team50_ElectiricVehiclePopulationData_Final_22JUL2023/WashingtonStateEVTrendAnalyticsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-[Team 57 City of Los Angeles Crime Data](https://public.tableau.com/shared/RNTF4XY2T?:display_count=n&:origin=viz_share_link)
-
 [Team 58 Diabetes Health Indicators](https://public.tableau.com/views/BU_520_650_41_SU4GroupProjectFinal/HealthyLivingLeadstoHealthyLife?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 [Team 59 College Tuition, Diversity, and Pay](https://public.tableau.com/app/profile/nancy.wang3826/viz/CombinedTableauFile-CBNWJKMHAN/EmpoweringStudentstoMakeBetterCollegeDecisions)
