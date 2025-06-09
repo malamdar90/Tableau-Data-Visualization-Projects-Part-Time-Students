@@ -10,7 +10,7 @@
 
 **Programs:** FLEX MBA and Part-Time Masters
 
-**Projects:** Total of 17 Projects 
+**Projects:** Total of 16 Projects 
 
 **Format:** Online
 
