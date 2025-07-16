@@ -5,8 +5,8 @@
 **Instructor:** [Dr. Mohammad Ali Alamdar Yazdi](https://carey.jhu.edu/faculty/faculty-directory/mohammad-ali-alamdar-yazdi-phd) (yazdi@jhu.edu)
 
 **Students:** 
-- Summer 2024: Total of 56 Master Students
-- Summer 2023: Total of 24 Master Students
+- Summer 2025, Summer 2024, Summer 2023
+- Total of 119 Master Students
 
 **Programs:** FLEX MBA and Part-Time Masters
 
