@@ -22,36 +22,35 @@
 
 # Students Tableau Projects
 
+[Best songs on Spotify](https://public.tableau.com/app/profile/cezarina.scales5399/viz/SpotifyTopSongs-Team66Final/Story1?publish=yes)
+
+[Kickstarter Projects](https://public.tableau.com/app/profile/gabby.trinh/viz/DataVisualizationProject-Team61-KickstarterFinalStory-BH/KickstarterStory#1)
+
 [U.S. Airbnb Open Data & Hotel Booking](https://public.tableau.com/app/profile/alexandra.baldwin/viz/AirBnBPototype6/AirBnBStory?publish=yes)
-
-[IMDB Data](https://public.tableau.com/views/FinalPresentation_Group47/Dash_Final?:language=en-US&:display_count=n&:origin=viz_share_link)
-
-[Health and Air Quality](https://public.tableau.com/views/AQNYC_Master-FinalRev2/NYCAirQualityStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-
-[New York City Airbnb Open Data Part 1](https://public.tableau.com/views/NYCAirbnbOverallMarketStatistics/OverallMarket2?:language=en-US&:display_count=n&:origin=viz_share_link), 
-[Part 2](https://public.tableau.com/views/Group49_NYAirbnbData_Revised07_20_23-FinalPresentation/OverallMarket1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [EV Population Data](https://public.tableau.com/views/Team50_ElectiricVehiclePopulationData_Final_22JUL2023/WashingtonStateEVTrendAnalyticsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [Diabetes Health Indicators](https://public.tableau.com/views/BU_520_650_41_SU4GroupProjectFinal/HealthyLivingLeadstoHealthyLife?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+[Health and Air Quality](https://public.tableau.com/views/AQNYC_Master-FinalRev2/NYCAirQualityStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 [College Tuition, Diversity, and Pay](https://public.tableau.com/app/profile/nancy.wang3826/viz/CombinedTableauFile-CBNWJKMHAN/EmpoweringStudentstoMakeBetterCollegeDecisions)
 
 [Road Traffic Severity](https://public.tableau.com/views/BU_520_650_41_SU24-Online-Team60/Group60AddisAbabaTrafficStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-[Kickstarter Projects](https://public.tableau.com/app/profile/gabby.trinh/viz/DataVisualizationProject-Team61-KickstarterFinalStory-BH/KickstarterStory#1)
 
 [Novel Corona Virus Database](https://public.tableau.com/views/BU_520_650_41_SU24Team62FinalPresentation/PandemicEpicenters?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 [Covid-19 Global Dataset](https://public.tableau.com/app/profile/stewart.van.horn/viz/Team63FinalProject_17217730572470/SuicideduringCOVID?publish=yes)
 
-[US Health Insurance](https://public.tableau.com/app/profile/zoila.gonzalez8465/viz/Finished_Project/MainDashboard?publish=yes)
-
 [120 Years of Olympic History](https://public.tableau.com/app/profile/james.cox5689/viz/Team65_FinalProject_DataVisualization_Master_vFinal4/ComprehensiveAnalysisofOlympicPerformance)
-
-[Best songs on Spotify](https://public.tableau.com/app/profile/cezarina.scales5399/viz/SpotifyTopSongs-Team66Final/Story1?publish=yes)
 
 [Global Cost of Living](https://public.tableau.com/app/profile/michelle.zhao1454/viz/CostofLivingTeam67/GlobalCostofLivingDashboard?publish=yes)
 
 [Causes of Death Globally](https://public.tableau.com/app/profile/rubayet.hossain/viz/maternal_mortality_23july1/Story1)
 
+[IMDB Data](https://public.tableau.com/views/FinalPresentation_Group47/Dash_Final?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[US Health Insurance](https://public.tableau.com/app/profile/zoila.gonzalez8465/viz/Finished_Project/MainDashboard?publish=yes)
+
+[New York City Airbnb Open Data Part 1](https://public.tableau.com/views/NYCAirbnbOverallMarketStatistics/OverallMarket2?:language=en-US&:display_count=n&:origin=viz_share_link), 
+[Part 2](https://public.tableau.com/views/Group49_NYAirbnbData_Revised07_20_23-FinalPresentation/OverallMarket1?:language=en-US&:display_count=n&:origin=viz_share_link)
