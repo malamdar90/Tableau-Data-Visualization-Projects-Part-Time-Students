@@ -28,7 +28,7 @@
 
 [Health and Air Quality](https://public.tableau.com/views/AQNYC_Master-FinalRev2/NYCAirQualityStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-[New York City Airbnb Open Data (221) Part 1](https://public.tableau.com/views/NYCAirbnbOverallMarketStatistics/OverallMarket2?:language=en-US&:display_count=n&:origin=viz_share_link), 
+[New York City Airbnb Open Data Part 1](https://public.tableau.com/views/NYCAirbnbOverallMarketStatistics/OverallMarket2?:language=en-US&:display_count=n&:origin=viz_share_link), 
 [Part 2](https://public.tableau.com/views/Group49_NYAirbnbData_Revised07_20_23-FinalPresentation/OverallMarket1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [EV Population Data](https://public.tableau.com/views/Team50_ElectiricVehiclePopulationData_Final_22JUL2023/WashingtonStateEVTrendAnalyticsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
