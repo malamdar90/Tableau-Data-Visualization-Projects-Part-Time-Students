@@ -22,7 +22,7 @@
 
 # Students Tableau Projects
 
-[AirBnB (U.S. Airbnb Open Data & Hotel Booking)](https://public.tableau.com/app/profile/alexandra.baldwin/viz/AirBnBPototype6/AirBnBStory?publish=yes)
+[U.S. Airbnb Open Data & Hotel Booking](https://public.tableau.com/app/profile/alexandra.baldwin/viz/AirBnBPototype6/AirBnBStory?publish=yes)
 
 [IMDB Data](https://public.tableau.com/views/FinalPresentation_Group47/Dash_Final?:language=en-US&:display_count=n&:origin=viz_share_link)
 
