@@ -50,7 +50,7 @@
 
 [IMDB Data](https://public.tableau.com/views/FinalPresentation_Group47/Dash_Final?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-[US Health Insurance](https://public.tableau.com/app/profile/zoila.gonzalez8465/viz/Finished_Project/MainDashboard?publish=yes)
+<!--- [US Health Insurance](https://public.tableau.com/app/profile/zoila.gonzalez8465/viz/Finished_Project/MainDashboard?publish=yes)
 
 [New York City Airbnb Open Data Part 1](https://public.tableau.com/views/NYCAirbnbOverallMarketStatistics/OverallMarket2?:language=en-US&:display_count=n&:origin=viz_share_link), 
-[Part 2](https://public.tableau.com/views/Group49_NYAirbnbData_Revised07_20_23-FinalPresentation/OverallMarket1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Part 2](https://public.tableau.com/views/Group49_NYAirbnbData_Revised07_20_23-FinalPresentation/OverallMarket1?:language=en-US&:display_count=n&:origin=viz_share_link) -->
