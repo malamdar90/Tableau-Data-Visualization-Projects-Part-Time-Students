@@ -22,6 +22,38 @@
 
 # Students Tableau Projects
 
+[Divided by Access: Exploring Inequities in Healthcare Availability](https://public.tableau.com/app/profile/matthew.bodon/viz/DividedbyAccessExploringInequitiesinHealthcareAvailability/DividedbyAccessExploringInequitiesinHealthcareAvailability?publish=yes)
+
+[Chicago Crime Analytics](https://public.tableau.com/app/profile/sarah.hanks/viz/WebApplication/Home?publish=yes)
+
+[Naming Generations - US Baby Name Trends in Diversity, Popularity, and Gender](https://public.tableau.com/app/profile/lauren.swiecicki/viz/NamingGenerations/Entry)
+
+[ED: Patterns, Pressures & Pathways Forward](https://public.tableau.com/app/profile/saad.khan3439/viz/EDPatternsPressuresPathwaysForward/EDPatternsPressuresPathways?publish=yes)
+
+[Hospital Acquired Infections](https://public.tableau.com/app/profile/e.r2900/viz/HospitalAcquiredInfections_17530466773280/Overview)
+
+[Driving Through Insurance Fraud](https://public.tableau.com/app/profile/benjamin.crocker/viz/DrivingThroughInsuranceFraud/SummaryClaims)
+
+[Student Gradebook Review](https://public.tableau.com/app/profile/ruth.adcock/viz/Data_Viz_Team_7_Gradebook/FinalProjectDashboard)
+
+[GLOW: The World Happiness Report Through the Lens of Maslow's Hierarchy of Needs](https://public.tableau.com/app/profile/rosarys.esquilin2566/viz/GLOW_Team_WebDashboardProject_07_21_2025/IntroPage)
+
+[Sleep Project](https://public.tableau.com/app/profile/maxine.huntsinger/viz/SleepProject-DataVisualizationFinal/StressResearch-Final)
+
+[ROI IDL Dashboard](https://public.tableau.com/app/profile/sokenunese.myles/viz/ROI_IDLDashboard0720_4/ROI-IDL-ORG)
+
+[PRCP Trends in Boston and Baltimore](https://public.tableau.com/app/profile/suzanne.howard/viz/PRCPTrendsinBostonandBaltimore2015to2025DataVisualizationSU2025jhu/BostonDashboard1)
+
+[30 Year Market View](https://public.tableau.com/app/profile/jamal.perkins/viz/30YearMarketView_17530337289220/Story1?publish=yes)
+
+[SP500 Rolling Returns](https://public.tableau.com/app/profile/tae.yeon.kim3566/viz/SP500RollingReturns1Y3Y5Y/ARIMAForecastDashboard?publish=yes)
+
+[Maryland’s WIOA Programs](https://public.tableau.com/app/profile/nigel.ray.garcia/viz/FinalProjectSummer/Dashboard1)
+
+[Space Mission Outcomes](https://public.tableau.com/app/profile/wilhelmina.dietrich/viz/SpaceMissionOutcomes-f/Story1)
+
+[Climate Change and Natural Disasters Dashboard](https://public.tableau.com/app/profile/yusuf.sharaby/viz/DataVisualization-WebApplicationProjectYS/ClimateChangeandNaturalDisastersDashboard?publish=yes)
+
 [Best songs on Spotify](https://public.tableau.com/app/profile/cezarina.scales5399/viz/SpotifyTopSongs-Team66Final/Story1?publish=yes)
 
 [Kickstarter Projects](https://public.tableau.com/app/profile/gabby.trinh/viz/DataVisualizationProject-Team61-KickstarterFinalStory-BH/KickstarterStory#1)
