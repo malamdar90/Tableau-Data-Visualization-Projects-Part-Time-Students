@@ -10,7 +10,7 @@
 
 **Programs:** FLEX MBA and Part-Time Masters
 
-**Projects:** Total of 30 Projects 
+**Projects:** Total of 29 Projects 
 
 **Format:** Online
 
@@ -29,8 +29,6 @@
 [Naming Generations - US Baby Name Trends in Diversity, Popularity, and Gender](https://public.tableau.com/app/profile/lauren.swiecicki/viz/NamingGenerations/Entry)
 
 [ED: Patterns, Pressures & Pathways Forward](https://public.tableau.com/app/profile/saad.khan3439/viz/EDPatternsPressuresPathwaysForward/EDPatternsPressuresPathways?publish=yes)
-
-[Hospital Acquired Infections](https://public.tableau.com/app/profile/e.r2900/viz/HospitalAcquiredInfections_17530466773280/Overview)
 
 [Driving Through Insurance Fraud](https://public.tableau.com/app/profile/benjamin.crocker/viz/DrivingThroughInsuranceFraud/SummaryClaims)
 
